@@ -1,7 +1,7 @@
 # Customer Segmentation using K-Means Clustering
 
 ## 🚀 Live Demo
-🔗 https://your-huggingface-space-link
+🔗 [https://your-huggingface-space-link](https://huggingface.co/spaces/pritamvermas/customer_segentation)
 
 ## 📌 Overview
 This project uses K-Means Clustering to segment customers based on their Annual Income and Spending Score. The model groups similar customers into different segments to help businesses understand customer behavior and create targeted marketing strategies.
